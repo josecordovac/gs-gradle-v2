@@ -1,5 +1,6 @@
 :spring_boot_version: 1.5.10.RELEASE
 :jdk: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+:openjdk: https://repo.huaweicloud.com/openjdk/
 :toc:
 :icons: font
 :source-highlighter: prettify
@@ -16,6 +17,7 @@ You'll create a simple app and then build it using Gradle.
  - About 15 minutes
  - A favorite text editor or IDE
  - {jdk}[JDK 6] or later
+ - {openjdk}[Versiones openjdk para descargar]
 
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/how_to_complete_this_guide.adoc[]
